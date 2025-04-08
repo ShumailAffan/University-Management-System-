@@ -991,7 +991,7 @@ void processor(University* ptr){
 
 int main(){
 	
-	cout<<endl<<endl<<setw(100)<<right<<"University Management system"<<endl;
+	cout<<endl<<endl<<setw(100)<<right<<"University Management System"<<endl;
 	cout<<setw(101)<<right<<"------------------------------"<<endl<<endl<<endl;
 	
 	processor(new University);
